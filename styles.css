@@ -1,0 +1,139 @@
+.container{
+	background-color: brown;
+}
+
+.head-img{
+    height: 100px;
+    background-image: url(./images/header.jpg);
+}
+
+.header{
+    margin: auto;
+    font-weight: 600;
+    font-family: "Old Standard TT", sans-serif;
+    font-size: 36px;
+    line-height: 40px;
+    padding: 15px 0px;
+	text-align: center;
+    color: #fcfcee;
+    text-shadow: 1px 1px 1px #000;
+}
+
+
+.nav-link{
+    background-color: brown;
+    color: #fcfcee;
+}
+
+.nav-link:hover{
+	background-color: rgb(95, 24, 24);
+	color: white;
+}
+
+.nav-img{
+	width: 15px;
+	height: 15px;
+}
+
+.img-main{
+	width: 19rem;
+	text-align: center; 
+}
+
+.text-inf{
+	display: flex!important;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 16px;
+	font-weight: 600;
+    font-family: "Old Standard TT", sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 15px 0px;
+    color: #111111;
+}
+
+.info-card{
+	display: flex!important;
+	
+}
+
+.img-info{
+	object-fit:cover;
+	float:left; 
+    width: 300px;
+	margin-top: 70px;
+	margin-bottom: 10px;
+}
+
+.line-info{display: flex!important;
+
+    font-weight: 600px;
+    font-family: "Old Standard TT", sans-serif;
+    font-size: 1.2rem;
+    line-height: 20px;
+    padding: 15px 20px;
+	text-align: left;
+    color: #fcfcee;
+	background-color:brown;
+}
+
+.footer{
+	background-color: brown; 
+	color: white; 
+	border: brown;
+}
+
+.footer a{
+    color: #fcfcee;
+}
+
+.btn{
+	background-color: brown; 
+	color: white; 
+	border: brown;
+}
+
+.btn-primary{
+	--bs-btn-hover-bg:rgb(95, 24, 24);
+}
+
+#registration{
+	width:900px;
+	height:3000 px;
+	margin-top:0px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+	padding-bottom: 230px;
+	position: center;
+	background-color:brown;
+	color: #ffffff;
+	font-family:"Old Standard TT", sans-serif;
+	line-height: 40px;
+	padding: 15px 0px;
+	text-align: center;
+	margin-top:50px;
+	margin-bottom:50px;
+	
+ }
+ 
+ .form-registration{
+	 line-height: 20px;
+	 position: center;
+	 background-color:brown;
+	 color: #fcfcee;
+	 font-family:"Old Standard TT", sans-serif;
+	 margin-top: 16px;
+	 margin-bottom: 16px;
+	 padding: 15px 0px;
+ }
+ 
+ #registration p{
+	 padding: 15px 0px;
+	 line-height: 20px;
+	 position: center;
+	 background-color:brown;
+	 color: #fcfcee;
+	 font-family:"Old Standard TT", sans-serif;
+ }
