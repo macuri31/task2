@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": "Песнь Ахилла",
+    "vendor_code": "111",
+    "description": "Мадлен Миллер",
+    "price": 1045,
+    "img": "./images/pesn_ahilla.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Благословение Небожителей",
+    "vendor_code": "222",
+    "description": "Мосян Тунсю",
+    "price": 1350,
+    "img": "https://content.img-gorod.ru/pim/products/images/05/98/018f6033-f0ea-7a73-8f0b-a9b640f90598.jpg?width=608&height=867&fit=bounds"
+  },
+  {
+    "id": "3",
+    "title": "Тайная история",
+    "vendor_code": "333",
+    "description": "Тартт Донна",
+    "price": 1340,
+    "img": "https://content.img-gorod.ru/pim/products/images/a2/19/018fadea-2cb6-7a73-8d81-19d5f8aaa219.jpg?width=608&height=867&fit=bounds"
+  },
+  {
+    "id": "4",
+    "title": "Если все кошки в мире исчезнут",
+    "vendor_code": "444e",
+    "description": "Кавамура Гэнки",
+    "price": 800,
+    "img": "https://content.img-gorod.ru/pim/products/images/62/62/018f6126-5d0b-7c18-bf91-0a33660d6262.jpg?width=608&height=867&fit=bounds"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "1984",
+    "vendor_code": "4445e",
+    "description": "Оруэлл Джордж",
+    "price": 400,
+    "img": "https://content.img-gorod.ru/pim/products/images/8d/da/018fa27b-966f-7295-b2fa-8697f6918dda.jpg?width=608&height=867&fit=bounds"
+  },
+  {
+    "id": "6",
+    "title": "Норвежский лес",
+    "vendor_code": "4446e",
+    "description": "Харуки Мураками",
+    "price": 417,
+    "img": "https://content.img-gorod.ru/pim/products/images/96/0d/018f5e93-f83a-715f-8095-3c4afc4c960d.jpg?width=608&height=867&fit=bounds"
+  },
+  {
+    "id": "7",
+    "title": "Лисья нора",
+    "vendor_code": "4447e",
+    "description": "Сакавич Нора",
+    "price": 686,
+    "img": "https://content.img-gorod.ru/pim/products/images/37/db/01935749-175c-72e7-b422-5be48f5037db.jpg?width=608&height=867&fit=bounds"
+  },
+  {
+    "id": "8",
+    "title": "Бойцовский клуб",
+    "vendor_code": "4448e",
+    "description": "Паланик Чак",
+    "price": 334,
+    "img": "https://content.img-gorod.ru/pim/products/images/56/a4/018febd0-9f6c-7f5e-8627-9caa5ce556a4.jpg?width=608&height=867&fit=bounds"
+  }
+]
